@@ -1,2 +1,3 @@
-# Introduction_to_GIT
-Files of Introduction to GIT and GitHub
+# About me
+- I'm studying CL in Germany.
+- And this is a GIT lecture which teach me how to use GIT and GitHub
