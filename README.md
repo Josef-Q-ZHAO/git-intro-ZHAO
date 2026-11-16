@@ -8,3 +8,5 @@
 
 I can cloned the repository
 hoep it will work well
+
+I'm changing the footer part of the foreign project!
