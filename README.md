@@ -1,4 +1,4 @@
-changed by zhao
+changed by zhao (blah blah blah)
 ***About me***
 
 - I'm studying CL in Germany.
