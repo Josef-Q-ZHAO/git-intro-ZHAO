@@ -1,4 +1,4 @@
-changed by zhao
+changed by zhao Have a nice day!
 ***About me***
 
 - I'm studying CL in Germany.
