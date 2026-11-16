@@ -1,4 +1,5 @@
-changed by zhao Have a nice day!
+changed by zhao (blah blah blah)
+
 ***About me***
 
 - I'm studying CL in Germany.
@@ -10,3 +11,5 @@ changed by zhao Have a nice day!
 
 I can cloned the repository
 hoep it will work well
+
+I'm changing the footer part of the foreign project!
